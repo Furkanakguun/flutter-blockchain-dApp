@@ -1,6 +1,6 @@
 # flutter_dapp
 
-Flutter bloockhain hello world dApp.
+Flutter blocckhain hello world dApp.
 
 Truflle
 Ganache
