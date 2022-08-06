@@ -18,8 +18,10 @@ class ContractLinking extends ChangeNotifier {
   late EthereumAddress _contractAddress;
   late Credentials _credentials;
 
+
+
   late DeployedContract _contract;
-  late ContractFunction _yourName;
+  late ContractFunction _yourName ;
   late ContractFunction _setName;
 
   bool isLoading = true;
