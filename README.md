@@ -1,6 +1,8 @@
 # flutter_dapp
 
-Flutter blocckhain hello world dApp.
+Flutter and Blockchain. Hello World dApp 
+
+Ethereum-Solidity
 
 Truflle
 Ganache
